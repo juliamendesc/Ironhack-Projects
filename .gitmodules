@@ -1,0 +1,12 @@
+[submodule "PTWD-Ironhack-Project1"]
+	path = PTWD-Ironhack-Project1
+	url = git@github.com:juliamendesc/PTWD-Ironhack-Project1.git
+[submodule "ebb"]
+	path = ebb
+	url = git@github.com:juliamendesc/ebb.git
+[submodule "stack-a-hobby-client"]
+	path = stack-a-hobby-client
+	url = git@github.com:juliamendesc/stack-a-hobby-client.git
+[submodule "stack-a-hobby-server"]
+	path = stack-a-hobby-server
+	url = git@github.com:juliamendesc/stack-a-hobby-server.git
